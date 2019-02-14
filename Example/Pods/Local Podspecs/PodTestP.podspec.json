@@ -1,0 +1,22 @@
+{
+  "name": "PodTestP",
+  "version": "0.1.0",
+  "summary": "A short description of PodTestP.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pini.cheyni@tandemg.com/PodTestP",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pini.cheyni@tandemg.com": "qwe@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/pini.cheyni@tandemg.com/PodTestP.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodTestP/Classes/**/*"
+}
