@@ -7,12 +7,17 @@
 //
 
 import UIKit
+import PodTestP
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var testImageView: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        testImageView.circleImageView(borderColor: UIColor.white, borderWidth: 2.0)
+        
     }
 
     override func didReceiveMemoryWarning() {
