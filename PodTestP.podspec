@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'PodTestP'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of PodTestP.'
+  s.summary          = 'A short description of PodTestP. That is showing warning if not entered here.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -19,6 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
+This is the longer description that I entered here.
                        DESC
 
   s.homepage         = 'https://github.com/PinichTrio/PodTestP'
